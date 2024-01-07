@@ -32,7 +32,8 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 2. Remover veículo
 3. Listar veículos
 4. Encerrar
+   
+##Conclusão
+Projeto em C#, com o tema - Estacionamento. Foram realizados os ajustes nos código para que o mesmo fosse executado.
 
-
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Ajustes: Implementação dos "ReadLine" em "placaDoVeiculo, placa e horas" ; Realização do cálculo da permanência do veiculo; Remoção da placa; Laço de repetição em "ListarVeiculos".
